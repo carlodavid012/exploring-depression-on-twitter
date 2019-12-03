@@ -6,5 +6,5 @@ Around 3 million Filipinos live with depression. Arguing that social media is an
 
 ### Dataset
 
-We scraped data from Twitter using the [Twint](https://github.com/twintproject/twint). The dataset contains about 114,728 tweets  which roughly 100 self-identify as having been clinically diagnosed with depression (by virtue of having publicly tweeted “I was diagnosed with depression” or similar, with manual validation of tweets to check sarcasm/jokes and to remove automated tweets. We only scraped tweets from users near Manila to contextualized depression in the Philippines.
+We scraped data from Twitter using the [Twint](https://github.com/twintproject/twint). The dataset contains about 114,728 tweets  which roughly 100 self-identify as having been diagnosed with depression (users who publicly tweeted “I was diagnosed with depression” or similar), with manual validation of tweets to check sarcasm/jokes and to remove automated tweets. We only scraped tweets from users near Manila to contextualized depression in the Philippines.
 
